@@ -21,14 +21,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_253125_loaner_re.loaner_request_user</roles>
+        <roles>x_253125_loaner_re.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-26 04:40:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>92df39d54f671300cfb4aa2f9310c731</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open </sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_253125_loaner_re">56d7b5914f671300cfb4aa2f9310c742</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="Loaner Request">56d7b5914f671300cfb4aa2f9310c742</sys_scope>
         <sys_update_name>sys_app_module_92df39d54f671300cfb4aa2f9310c731</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-26 04:40:37</sys_updated_on>
+        <sys_updated_on>2018-07-27 05:02:53</sys_updated_on>
         <timeline_page/>
         <title>Open </title>
         <uncancelable>false</uncancelable>
